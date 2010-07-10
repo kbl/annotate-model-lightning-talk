@@ -1,0 +1,7 @@
+{ "name": "Annotate model", 
+  "sections": [ 
+    {"section": "title"},
+    {"section": "problem"}, 
+    {"section": "solution"},
+    {"section": "thanks"}
+  ]}
